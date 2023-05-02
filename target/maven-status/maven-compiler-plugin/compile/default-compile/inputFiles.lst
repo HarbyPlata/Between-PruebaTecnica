@@ -1,0 +1,8 @@
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/repository/PricesRepository.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/controller/PriceController.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/model/PricesModel.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/ProductPriceInfoApplication.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/dto/PriceResponse.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/dto/PriceResponseError.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/services/PricesListService.java
+/home/hplata1/POC/API_ProductPriceInfo/ProductPriceInfo(1)/ProductPriceInfo/src/main/java/com/zara/productpriceinfo/services/PricesListServiceImpl.java

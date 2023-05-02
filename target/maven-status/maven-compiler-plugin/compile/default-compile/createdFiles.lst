@@ -1,0 +1,8 @@
+com/zara/productpriceinfo/ProductPriceInfoApplication.class
+com/zara/productpriceinfo/services/PricesListService.class
+com/zara/productpriceinfo/dto/PriceResponse.class
+com/zara/productpriceinfo/services/PricesListServiceImpl.class
+com/zara/productpriceinfo/dto/PriceResponseError.class
+com/zara/productpriceinfo/model/PricesModel.class
+com/zara/productpriceinfo/controller/PriceController.class
+com/zara/productpriceinfo/repository/PricesRepository.class
