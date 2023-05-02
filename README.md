@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Between-PruebaTecnica
-Between PruebaTecnica SpringBoot, ejercicio consulta de precio de un producto
-=======
 # ProductPriceInfoInquiry
 
 Este servicio recibe como dato de entrada el ID de la cadena de tiendas, el ID del producto y una fecha específica. A partir de estos datos, el servicio realiza una consulta en la base de datos para obtener el precio del producto correspondiente en esa fecha y para esa cadena en particular. La respuesta es un objeto JSON que contiene la información del precio, ID del producto, ID de la cadena, tarifa a aplicar, fecha de aplicación junto con un código y descripción de estado que indica si la transacción fue exitosa o si se produjo un error.
@@ -27,4 +23,4 @@ Este servicio recibe como dato de entrada el ID de la cadena de tiendas, el ID d
 ## Autor
 
 Harby Arturo Plata Serrano
->>>>>>> master
+
